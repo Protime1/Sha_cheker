@@ -1,0 +1,14 @@
+# Подставные домены для Domain Fronting
+# Через них будет идти трафик
+# Добавляй сюда популярные сайты, которые не блокируют
+
+cloudflare.com
+google.com
+yandex.ru
+github.com
+microsoft.com
+amazon.com
+netflix.com
+spotify.com
+bing.com
+duckduckgo.com
